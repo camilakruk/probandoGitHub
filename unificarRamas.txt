@@ -1,0 +1,3 @@
+git diff rama1 rama2
+git checkout ramaAactualizar
+git merge ramaOrigen ramaDestino
